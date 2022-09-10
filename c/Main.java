@@ -1,4 +1,4 @@
-package com.company;
+package com.company.c;
 
 import com.company.Javagenerics.MyArrayList;
 

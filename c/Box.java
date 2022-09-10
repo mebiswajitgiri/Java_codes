@@ -1,4 +1,4 @@
-package com.company;
+package com.company.c;
 
 public class Box {
     private Object object;
